@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "104 Content Placeholder Animation like Facebook"
